@@ -1,0 +1,12 @@
+
+acertos direita: 260
+errors direita: 91
+acertos esquerda: 309
+errors esquerta: 140
+
+
+
+accuracy:  0.7113
+precision: 0.7407 
+recall: 0.6500
+specificity: 0.7725
