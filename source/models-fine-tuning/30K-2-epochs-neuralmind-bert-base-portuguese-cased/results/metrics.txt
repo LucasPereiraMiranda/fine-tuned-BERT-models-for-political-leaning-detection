@@ -1,0 +1,15 @@
+accuracy: tensor(0.8492) 
+precision: tensor(0.5706) 
+recall tensor(0.8885) 
+specificity tensor(0.8397)
+
+
+Acertos esquerda: 25523 
+Errors esquerda: 4871 
+Acertos direita: 6472 
+Errors direita: 812 
+
+Acertos esquerda: 25523
+Erros esquerda: 4871
+Acertos direita: 6472
+Errors direita: 812
