@@ -1,30 +1,30 @@
-h1 align="center" Modelo para classificação do viés ideológico de postagens de usuários em redes sociais
-/h1
+<h1 align="center"> Modelo para classificação do viés ideológico de postagens de usuários em redes sociais
+ </h1>
 
-p align="center"
-img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
 
-img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
+  
+  <a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
+  </a>
 
-a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/commits/master"
-img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
-/a
+  <a href="https://github.com/LucasPereiraMiranda/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
+  </a>
 
-a href="https://github.com/LucasPereiraMiranda/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues"
-img alt="Repository issues" src="https://img.shields.io/github/issues/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
-/a
+  <a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues-pr/">
+    <img alt="Repository Pull Request" src="https://img.shields.io/github/issues-pr/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
+  </a>
 
-a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues-pr/"
-img alt="Repository Pull Request" src="https://img.shields.io/github/issues-pr/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
-/a
+  <a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection">
+  </a>
+</p>
 
-a href="https://github.com/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection/issues"
-img alt="GitHub license" src="https://img.shields.io/github/license/LucasPereiraMiranda/fine-tuned-BERT-models-for-political-leaning-detection"
-/a
-/p
-
-p align="justify" Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao Trabalho 'Modelo para classificação do viés ideológico de postagens de usuários em redes sociais'.
-/p
+<p align="justify"> Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao Trabalho 'Modelo para classificação do viés ideológico de postagens de usuários em redes sociais'.
+</p>
 
 ## Tecnologias
 
