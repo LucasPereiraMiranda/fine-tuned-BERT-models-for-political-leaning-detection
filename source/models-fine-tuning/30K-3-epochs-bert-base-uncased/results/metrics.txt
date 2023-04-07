@@ -1,0 +1,9 @@
+Acertos esquerda: 30394
+Erros esquerda: 0
+Acertos direita: 0
+Errors direita: 7284
+
+accuracy: tensor(0.8067) 
+precision: nan 
+recall tensor(0.) 
+specificity tensor(1.)
