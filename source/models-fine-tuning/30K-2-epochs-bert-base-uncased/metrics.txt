@@ -1,0 +1,10 @@
+accuracy: 0.19332236318275917 
+precision: 0.19332236318275917 
+recall 1.0 
+specificity 0.0
+
+
+Acertos esquerda: 0
+Erros esquerda: 30394
+Acertos direita: 7284
+Errors direita: 0
