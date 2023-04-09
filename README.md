@@ -1,4 +1,4 @@
-<h1 align="center"> Modelo para classificação do viés ideológico de postagens de usuários em redes sociais
+<h1 align="center"> Modelo para classificação do viés político de postagens de usuários em redes sociais
  </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<p align="justify"> Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao Trabalho 'Modelo para classificação do viés ideológico de postagens de usuários em redes sociais'.
+<p align="justify"> Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao Trabalho 'Modelo para classificação do viés político de postagens de usuários em redes sociais'.
 </p>
 
 ## Tecnologias
