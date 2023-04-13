@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<p align="justify"> Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao Trabalho 'Modelo para classificação do viés político de postagens de usuários em redes sociais'.
+<p align="justify"> Este repositório tem como objetivo hospedar os algoritmos utilizados para o treinamento e validação dos modelos BERT associados ao trabalho 'Modelo para classificação do viés político de postagens de usuários em redes sociais'.
 </p>
 
 ## Tecnologias
